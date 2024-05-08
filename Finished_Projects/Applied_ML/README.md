@@ -1,1 +1,1 @@
-
+Two flies here one was my original project that was quite honesty rushed and didn't show or highlight anything I learned in the class. I spent a lot of time struggling trying to get files to work properly and it ended up being not my best work. I went back to the project with more knowledge of tensor flow and applied a deep learning CNN model to it. Right now the post class model is extremely overfitted and I plan on going back to this project someday, but I think my goal is a little too far fetched with my current knowledge of machine learning and tensorflow. 
