@@ -1,1 +1,1 @@
-Lucas Clatterbaugh's portfolio. Consisting of two main folders. Finished_projects contains all of my end of semmester projects or any personal project that I would like to show case. Class_topic_recaps is just a summary of code that I learned in differernt classes (unfinshied as of now) 
+Lucas Clatterbaugh's portfolio. Consisting of two main folders. Finished_projects contains all of my end of semester projects or any personal project that I would like to show case. Class_topic_recaps is just a summary of code that I learned in differernt classes (unfinshied as of now) 
